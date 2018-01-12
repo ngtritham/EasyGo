@@ -1,0 +1,23 @@
+.avatar img{
+	border-radius: 50px !important;
+	width: 40px;
+	height: 40px;
+}
+
+option{
+	font-weight: normal;
+    display: block;
+    white-space: pre;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+
+.main-menu .information ul{
+	padding-left:20px;
+}
+
+
+
+.infomation ul li{
+	color: #fff;
+}
